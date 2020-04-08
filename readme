@@ -1,7 +1,0 @@
-I have modularized my code in shell itself. 
-
-to run . write make on commmand line followed by ./shell
-
-I have implemented all the commands given in the assignment , setenv, unsetenv, fg , bg , overkill , and signal handeling and redirection etc.
-
-
