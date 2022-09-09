@@ -1,4 +1,4 @@
-# bash_shell_in_c
+# Basic shell in C
 This shell is completely built in C.
 
 It supports commands such as `pwd`,` cd`,`echo`,`ls`, `bg`, `fg`, `kjob`, `overkill`, `exit`, `pinfo` etc.
