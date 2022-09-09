@@ -10,4 +10,4 @@ It also supports multiple commands in one line by separating each command by a s
 ## To Run
 - Open terminal at that particular folder.
 - Run make; ./shell
-- Done!!Enjoy shelling!
+
